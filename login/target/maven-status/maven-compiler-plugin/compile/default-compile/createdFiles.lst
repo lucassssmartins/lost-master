@@ -1,0 +1,10 @@
+com\lostmc\login\manager\LoginManager$2.class
+com\lostmc\login\command\LoginCommand.class
+com\lostmc\login\manager\LoginManager$CaptchaMenu$1.class
+com\lostmc\login\command\RegisterCommand.class
+com\lostmc\login\manager\LoginManager$1.class
+com\lostmc\login\manager\LoginManager$CaptchaMenu.class
+com\lostmc\login\Login.class
+com\lostmc\login\manager\LoginManager.class
+com\lostmc\login\listener\EventListener.class
+com\lostmc\login\manager\LoginManager$CaptchaMenu$2.class

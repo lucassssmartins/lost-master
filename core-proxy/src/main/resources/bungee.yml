@@ -1,0 +1,4 @@
+main: com.lostmc.bungee.ProxyPlugin
+name: proxy
+version: 1.0-SNAPSHOT
+author: skyprogrammer

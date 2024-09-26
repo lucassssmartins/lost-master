@@ -1,0 +1,8 @@
+main: com.lostmc.lobby.Lobby
+name: lobby
+version: 1.0-SNAPSHOT
+authors: [skyprogrammer]
+description: Lobby bukkit plugin based on core-* and core-bukkit
+website: loja.lostmc.com.br
+load: STARTUP
+depend: [ViaVersion, ViaRewind, ProtocolLib]

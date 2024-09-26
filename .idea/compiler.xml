@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="core-bukkit" />
+        <module name="lobby" />
+        <module name="game-api" />
+        <module name="core-proxy" />
+        <module name="core-api" />
+        <module name="core-common" />
+        <module name="pvp" />
+        <module name="login" />
+        <module name="hg" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+main: com.lostmc.login.Login
+name: login
+version: 1.0-SNAPSHOT
+authors: [skyprogrammer]
+description: Auth bukkit plugin based on core-*, core-bukkit and game-engine
+website: loja.lostmc.com.br
+load: STARTUP
+depend: [ViaVersion, ViaRewind, ProtocolLib]
